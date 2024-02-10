@@ -4,15 +4,15 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/KitsuneLab-Development/CS2_TemplateRepo?style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/KitsuneLab-Development/CS2_TemplateRepo?style=for-the-badge)
 ![GitHub](https://img.shields.io/github/license/KitsuneLab-Development/CS2_TemplateRepo?style=for-the-badge)
-![GitHub contributors](https://img.shields.io/github/contributors/KitsuneLab-Development/CS2_TemplateRepo?style=for-the-badge)
 ![GitHub all releases](https://img.shields.io/github/downloads/KitsuneLab-Development/CS2_TemplateRepo/total?style=for-the-badge)
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/KitsuneLab-Development/CS2_TemplateRepo/dev?style=for-the-badge)
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h1 align="center">KitsuneLab</h1>
+  <h1 align="center">KitsuneLab©</h1>
   <h3 align="center">PLACE OF TITLE</h3>
+  <a align="center">PLACE OF DESCRIPTION</a>
 
   <p align="center">
     <br />
@@ -26,18 +26,11 @@
 
 <!-- ABOUT THE PROJECT -->
 
-## About The Project
-
-DESCRIPTION HERE
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ### Dependencies
 
 To use this server addon, you'll need the following dependencies installed:
 
-- [**CounterStrikeSharp**](https://github.com/roflmuffin/CounterStrikeSharp/actions/workflows/cmake-single-platform.yml): CounterStrikeSharp allows you to write server plugins in C# for Counter-Strike 2/Source2/CS2
-- **MySQL Database (Version 5.2 or higher):** This project requires a MySQL database to store and manage data. You can host your own MySQL server or use a third-party hosting service. Make sure it's at least version 5.2 or higher.
+- [**CounterStrikeSharp**](https://github.com/roflmuffin/CounterStrikeSharp/releases): CounterStrikeSharp allows you to write server plugins in C# for Counter-Strike 2/Source2/CS2
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
