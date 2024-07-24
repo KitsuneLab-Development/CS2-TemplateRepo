@@ -50,7 +50,7 @@ To use this server addon, you'll need the following dependencies installed:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
-## Official Authors
+## Authors
 
 - [**K4ryuu**](https://github.com/K4ryuu) - *Initial work*
 
