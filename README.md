@@ -10,42 +10,64 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h1 align="center">KitsuneLab©</h1>
-  <h3 align="center">PLACE OF TITLE</h3>
-  <a align="center">PLACE OF DESCRIPTION</a>
-
+  <a href="https://github.com/KitsuneLab-Development/CS2_TemplateRepo">
+    <img src="https://i.imgur.com/sej1ZzD.png" alt="Logo" width="400" height="256">
+  </a>
+  <h3 align="center">CounterStrike 2 Plugin Template</h3>
   <p align="center">
+    A template repository for creating CounterStrike 2 plugins using CounterStrikeSharp.
     <br />
     <a href="https://github.com/KitsuneLab-Development/CS2_TemplateRepo/releases">Download</a>
     ·
-    <a href="https://github.com/KitsuneLab-Development/CS2_TemplateRepo/issues/new?assignees=KitsuneLab-Development&labels=bug&projects=&template=bug_report.md&title=%5BBUG%5D">Report Bug</a>
+    <a href="https://github.com/KitsuneLab-Development/CS2_TemplateRepo/issues/new?assignees=KitsuneLab-Development&labels=bug&template=bug_report.md&title=%5BBUG%5D">Report Bug</a>
     ·
-    <a href="https://github.com/KitsuneLab-Development/CS2_TemplateRepo/issues/new?assignees=KitsuneLab-Development&labels=enhancement&projects=&template=feature_request.md&title=%5BREQ%5D">Request Feature</a>
+    <a href="https://github.com/KitsuneLab-Development/CS2_TemplateRepo/issues/new?assignees=KitsuneLab-Development&labels=enhancement&template=feature_request.md&title=%5BREQ%5D">Request Feature</a>
+     ·
+    <a href="https://kitsune-lab.com">Website</a>
+     ·
+    <a href="https://nests.kitsune-lab.com/tickets/create?department_id=2">Hire Us</a>
   </p>
 </div>
 
 <!-- ABOUT THE PROJECT -->
+## About The Project
+
+This template repository serves as a starting point for creating server plugins for CounterStrike 2 using the CounterStrikeSharp library. It includes essential setup, dependencies, and best practices to get you started quickly.
 
 ### Dependencies
 
 To use this server addon, you'll need the following dependencies installed:
 
-- [**CounterStrikeSharp**](https://github.com/roflmuffin/CounterStrikeSharp/releases): CounterStrikeSharp allows you to write server plugins in C# for Counter-Strike 2/Source2/CS2
+- [**CounterStrikeSharp**](https://github.com/roflmuffin/CounterStrikeSharp/releases): CounterStrikeSharp allows you to write server plugins in C# for Counter-Strike 2/Source2/CS2.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ROADMAP -->
-
 ## Roadmap
 
-- [ ] No plans for now
+- [ ] None
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+## Official Authors
+
+- [**K4ryuu**](https://github.com/K4ryuu) - *Initial work*
+
+See also the list of [contributors](https://github.com/KitsuneLab-Development/CS2_TemplateRepo/graphs/contributors) who participated in this project as an outside contributor.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
-
 ## License
 
 Distributed under the GPL-3.0 License. See `LICENSE.md` for more information.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTACT -->
+## Contact
+
+- **KitsuneLab Team** - [contact@kitsune-lab.com](mailto:contact@kitsune-lab.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
